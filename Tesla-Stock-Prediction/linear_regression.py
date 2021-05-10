@@ -37,7 +37,6 @@ class LinearRegression:
             self.weights -= self.learning_rate * gradient_weights
             self.bias -= self.learning_rate * gradient_bias
 
-        return self
 
     def score(self, X_test, y_test):
         self.X_test = X_test
@@ -45,6 +44,7 @@ class LinearRegression:
         residual_sum_of_squares = np.sum((self.y_test - self.predict(X_test))**2)
         total_sum_of_squares = np.sum((self.y_test - self.y_test.mean())**2)
         return 1 - (residual_sum_of_squares / total_sum_of_squares) if total_sum_of_squares != 0 else None
+
 
 
 def train_test_split(X, y, test_size):
