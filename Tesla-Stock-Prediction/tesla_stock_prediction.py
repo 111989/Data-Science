@@ -1,3 +1,7 @@
+"""
+    Credit: Sentdex
+"""
+
 import pandas as pd
 import quandl, math, random, datetime
 import numpy as np
