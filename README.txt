@@ -10,10 +10,3 @@ building an RNN model that implements LSTM architecture
 
 Dependency: Keras
 
-
-# Tesla Stock Prediction
-Predict Tesla's stock prices by optimizing a linear regression 
-model using gradient descent. 
-
-Dependency: Quandl
-
