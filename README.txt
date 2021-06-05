@@ -7,6 +7,10 @@ CS 590: Data Engineering 2
 
 # E-commerce Revenue Forecast
 Identify shopping trends for accurate revenue forecast by building 
-an RNN model that implements LSTM architecture
+an RNN model that implements LSTM
 
-Dependency: Keras
+# Geospatial 
+Geospatial Analysis of NYC trips and self-organizing maps for 
+comparing freedom among world countries to the US counties
+
+
