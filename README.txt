@@ -5,7 +5,7 @@ Collaborative Filtering, and Stochastic Gradient Descent.
 # Data Engineering
 CS 590: Data Engineering 2
 
-# Geospatial 
+# Geospatial Analytics
 Geospatial Analysis of NYC trips and self-organizing maps for 
 comparing freedom among world countries to the US counties.
 
