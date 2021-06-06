@@ -1,7 +1,3 @@
-# Advanced Data Mining
-Amazon Products Recommender System using NLP, Community Detection, 
-Collaborative Filtering, and Stochastic Gradient Descent.
-
 # Data Engineering
 CS 590: Data Engineering 2
 
