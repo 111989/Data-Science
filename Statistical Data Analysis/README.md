@@ -1,4 +1,4 @@
-#### Statistical Data Analysis
+# Statistical Data Analysis
 Hypotheses testing on data from 700+ public and private colleges 
 in US for statistical analysis of graduate earnings.
 
